@@ -1,5 +1,5 @@
- Hi there 👋
- 
+ ![Banner](BannerImg.png)
+
 
 <!--
 **ajnikrant/ajnikrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
