@@ -24,4 +24,6 @@ I enjoy delving into new coding topics and writing about my current projects in 
 
 📈 Github Stats
 ------
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnikrant)](https://github.com/ajnikrant/github-readme-stats)
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnikrant&theme=vue)](https://github.com/ajnikrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnikrant&layout=compact&theme=vue)](https://github.com/ajnikrant/github-readme-stats)
+
