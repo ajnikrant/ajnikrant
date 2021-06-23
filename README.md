@@ -2,11 +2,11 @@
  👋 Hello!
 ------
 I am Full stack software engineer with experience in Ruby on Rails, React, and Javascript. I have a background in quality control, and an eye for details and logic. Trained in Agile and Lean/SixSigma. I am passionate about learning, inclusive environments, and community outreach!
-Feel free to reach out over on [LinkedIn](https://www.linkedin.com/in/amanda-nikrant/ "Amanda Nikrant's LinkedIn")!
+Feel free to reach out over on [LinkedIn](https://www.linkedin.com/in/amanda-nikrant/ "Amanda Nikrant's LinkedIn").
 
 ✍ Blogs & Writing
 ------
-I enjoy delving into new coding topics and writing about my current projects in my blog over at [Medium.com](https://ajnikrant.medium.com/ "Amanda Nikrant's Blog")!
+I enjoy delving into new coding topics and writing about my current projects in my blog over at [Medium.com](https://ajnikrant.medium.com/ "Amanda Nikrant's Blog").
 
 🔧 Languages & Technologies
 ------
@@ -22,3 +22,6 @@ I enjoy delving into new coding topics and writing about my current projects in 
 ![](https://img.shields.io/badge/-Git-informational)
 ![](https://img.shields.io/badge/-JSON-informational)
 
+📈 Github Stats
+------
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnikrant)](https://github.com/ajnikrant/github-readme-stats)
